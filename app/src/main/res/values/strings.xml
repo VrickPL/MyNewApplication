@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Enter e-mail:</string>
+    <string name="password">Enter password:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="enter">Enter</string>
+</resources>
